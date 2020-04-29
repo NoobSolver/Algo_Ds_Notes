@@ -5,6 +5,7 @@ An Armstrong number is a number that is the sum of its own digits each raised to
  `abcd... = pow(a,n) + pow(b,n) + pow(c,n) + pow(d,n) + ....`
 
 Eg. 153 = 1<sup>3</sup> + 5<sup>3</sup> + 3<sup>3</sup>
+  370=3<sup>3</sup> + 7<sup>3</sup> + 0<sup>3</sup>
 
 ## Definition
 
